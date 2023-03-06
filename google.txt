@@ -1,0 +1,3 @@
+dl.google.com
+*.dl.google.com
+*.gvt1.com
